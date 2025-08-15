@@ -74,15 +74,15 @@ button:focus {
   outline: none;
   box-shadow: none; }
 
-.p_120 {
-  padding-top: 120px;
-  padding-bottom: 120px; }
+.p_80 {
+  padding-top: 80px;
+  padding-bottom: 80px; }
 
 .pad_top {
-  padding-top: 120px; }
+  padding-top: 80px; }
 
 .pad_btm {
-  padding-bottom: 120px; }
+  padding-bottom: 80px; }
 
 .mt-25 {
   margin-top: 25px; }
@@ -3085,3 +3085,4 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
