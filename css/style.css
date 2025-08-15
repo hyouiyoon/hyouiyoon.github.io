@@ -74,9 +74,9 @@ button:focus {
   outline: none;
   box-shadow: none; }
 
-.p_80 {
-  padding-top: 90px;
-  padding-bottom: 90px; }
+.p_100 {
+  padding-top: 100px;
+  padding-bottom: 100px; }
 
 .pad_top {
   padding-top: 120px; }
@@ -3085,6 +3085,7 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
 
 
 
