@@ -2781,6 +2781,95 @@ h6 {
 
 /* End Welcome Area css
 ============================================================================================ */
+
+/* Welcome Area 2 css
+============================================================================================ */
+.welcome2_inner .welcome2_img {
+  background: #f9f9ff;
+  margin-left: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px; }
+  .welcome2_inner .welcome2_img img {
+    margin-top: -30px; }
+
+.welcome2_text {
+  margin-top: 45px; }
+  .welcome2_text h4 {
+    color: #222222;
+    font-family: "Heebo", sans-serif;
+    font-size: 36px;
+    margin-bottom: 18px;
+    text-transform: uppercase; }
+  .welcome2_text p {
+    max-width: 495px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    margin-bottom: 40px; }
+
+.wel2_item {
+  border: 1px solid #eeeeee;
+  padding: 30px 25px;
+  border-radius: 5px; }
+  .wel2_item i {
+    font-size: 24px;
+    background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; }
+  .wel2_item h4 {
+    font-size: 24px;
+    font-family: "Heebo", sans-serif;
+    font-weight: bold;
+    color: #222222;
+    margin-bottom: 5px;
+    margin-top: 10px; }
+  .wel2_item p {
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+    margin-bottom: 0px; }
+
+.tools2_expert {
+  box-shadow: 0px 8px 30px 0px rgba(153, 153, 153, 0.1);
+  padding: 50px 35px; }
+  .tools2_expert h3 {
+    color: #222222;
+    font-size: 21px;
+    text-transform: uppercase; }
+  .tools2_expert .skill_main .skill_item {
+    margin-bottom: 18px; }
+    .tools2_expert .skill_main .skill_item:last-child {
+      margin-bottom: 0px; }
+    .tools2_expert .skill_main .skill_item h4 {
+      text-align: right;
+      font-size: 14px;
+      font-family: "Roboto", sans-serif;
+      font-weight: normal;
+      color: #777777;
+      margin-bottom: 15px; }
+    .tools2_expert .skill_main .skill_item .progress {
+      height: 20px;
+      border-radius: 10px;
+      background: transparent;
+      border: 1px solid #eeeeee;
+      padding-left: 5px;
+      padding-right: 5px;
+      box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.2); }
+      .tools2_expert .skill_main .skill_item .progress .progress-bar {
+        width: 0%;
+        transition: width .6s ease;
+        height: 10px;
+        border-radius: 5px;
+        vertical-align: middle;
+        align-self: center;
+        background-image: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+        background-image: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+        background-image: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%); }
+
+/* End Welcome Area css
+============================================================================================ */
+
 /* Feature Area css
 ============================================================================================ */
 .feature_area {
@@ -3092,6 +3181,7 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
 
 
 
