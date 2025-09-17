@@ -3182,6 +3182,24 @@ h6 {
 
 /*# sourceMappingURL=style.css.map */
 
+/* ===============================
+   Custom CV Page Styles
+   =============================== */
+
+/* Publications 줄간격 및 항목 간 간격 */
+.publications h5 {
+    line-height: 1.8;      /* 줄간격을 넓게 */
+    margin-bottom: 15px;   /* 각 항목 사이 간격 */
+}
+
+/* 텍스트 강조용 클래스 */
+.bold {
+    font-weight: bold;
+}
+
+.normal {
+    font-weight: normal;
+}
 
 
 
