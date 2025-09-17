@@ -3198,8 +3198,9 @@ h6 {
 }
 
 .normal {
-    font-weight: normal;
+    font-weight: normal !important;
 }
+
 
 
 
