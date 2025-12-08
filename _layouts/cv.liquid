@@ -27,6 +27,33 @@ layout: default
     </header>
 
     <article>
+      <!-- ==== CV 헤더 (사진 + 기본 정보) ==== -->
+      <div class="cv-header d-flex align-items-center mb-4">
+        <div class="cv-photo mr-4">
+          <img
+            src="{{ page.photo | default: 'profile_pic.jpg' | prepend: 'assets/img/' | relative_url }}"
+            alt="{{ page.name | default: page.title }}"
+            class="rounded shadow-sm"
+            style="max-width: 180px;"
+          >
+        </div>
+        <div class="cv-basics">
+          <h1 class="cv-name mb-1">
+            {{ page.name | default: site.first_name | append: ' ' | append: site.last_name }}
+          </h1>
+          {% if page.position %}
+            <div class="cv-position">{{ page.position }}</div>
+          {% endif %}
+          {% if page.affiliation %}
+            <div class="cv-affiliation">{{ page.affiliation }}</div>
+          {% endif %}
+          {% if page.email %}
+            <div class="cv-email">{{ page.email }}</div>
+          {% endif %}
+        </div>
+      </div>
+      <hr>
+      
       <div class="cv">
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
