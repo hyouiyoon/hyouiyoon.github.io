@@ -420,15 +420,20 @@ ninja.data = [{
           title: 'EBRL Homecoming',
           description: "2025.11.14Ewha W. Univ., Seoul, Korea",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025/2025_3/";
+              window.location.href = "/projects/2025/2025_2/";
             },},{id: "projects-scholarship-award",
           title: 'Scholarship Award',
           description: "2025.11.16AI SeoulTech Graduate Scholarship",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025/2025_4/";
+              window.location.href = "/projects/2025/2025_3/";
             },},{id: "projects-conference-presentation",
           title: 'Conference Presentation',
           description: "2025.11.27-28COSEIK, Daejeon, Korea",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025/2025_4/";
+            },},{id: "projects-conference-presentation",
+          title: 'Conference Presentation',
+          description: "2025.12.10-13KSME, Gangwon-state, Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025/2025_5/";
             },},{id: "projects-project-5",
