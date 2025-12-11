@@ -131,7 +131,7 @@ nav_order: 4
 
 ---
 
-## **Oral Presentations**
+## **Conference Proceedings**
 
 <!--
 #### **International Conference**
@@ -145,23 +145,23 @@ Materials Horizons, 2025 (International).
 <!-- Domestic section: add spacing above -->
 <div style="margin-top:14px;"></div>
 
-#### **Domestic Conference (Korea)**
+#### **Oral Presentation - Domestic (Korea)**
 <div style="margin-bottom:10px;">
 [DC3] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
-KSME Fall Conference, 2025.
+80th Anniversary Conference of KSME, 2025.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC2] <strong>Hyoui Yoon</strong>, Wonjae Choi, Chaewon Park, and Sangryun Lee, 
 "Data-driven shape optimization of lattice structures for vibration isolation", 
-KSME Fall Conference, 2025.
+80th Anniversary Conference of KSME, 2025.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee,
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
-COSEIK Academic Conference, 2025.
+COSEIK Academic Symposium, 2025.
 </div>
 
 
@@ -172,7 +172,7 @@ COSEIK Academic Conference, 2025.
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Teaching Assistant</strong>, Computer-Aided Analysis (Prof. Sangryun Lee)<br>
-    Delivered ANSYS simulation tutorials (static structural analysis, truss/frame modeling, elasticity problems) and supported student troubleshooting.
+    Role: Delivered ANSYS simulation tutorials (static structural analysis, truss/frame modeling, elasticity problems) and supported student troubleshooting.
   </div>
   <div style="white-space:nowrap;">Spring 2025</div>
 </div>
