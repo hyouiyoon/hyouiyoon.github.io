@@ -240,7 +240,7 @@ COSEIK Academic Symposium, 2025.
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>3rd Place</strong>, 3D Printer Assistive Device Competition, ATRAC 3D</div>
+  <div><strong>3rd Place</strong>, 3D Printing Assistive Device Competition, ATRAC 3D</div>
   <div>2020.12</div>
 </div>
 
