@@ -117,8 +117,7 @@ nav_order: 4
 
 <div style="margin-bottom:10px;">
 [J2] <strong>Hyoui Yoon</strong>, Hyobi Lee, and Sangryun Lee, 
-"Designing Ultralight Nanolattices: Multiscale Optimization of Geometry and Size Effects", 
-<em>Thin-walled Structures</em>, Submitted.
+"Designing Ultralight Nanolattices: Multiscale Optimization of Geometry and Size Effects", Submitted.
 </div>
 
 <div style="margin-bottom:10px;">
