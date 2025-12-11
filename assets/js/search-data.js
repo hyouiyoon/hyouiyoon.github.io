@@ -436,6 +436,11 @@ ninja.data = [{
           description: "2025.12.10-13KSME, Gangwon-state, Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025/2025_5/";
+            },},{id: "projects-biorobotics-lab-homecoming",
+          title: 'BioRobotics Lab. Homecoming',
+          description: "2025.11.14Ewha W. Univ., Seoul, Korea",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025/2025_6/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
