@@ -416,8 +416,8 @@ ninja.data = [{
           description: "2025.02.24Ewha W. Univ., Seoul, Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025/2025_1/";
-            },},{id: "projects-biorobotics-lab-homecoming",
-          title: 'BioRobotics Lab. Homecoming',
+            },},{id: "projects-ebrl-homecoming",
+          title: 'EBRL Homecoming',
           description: "2025.11.14Ewha W. Univ., Seoul, Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025/2025_2/";
