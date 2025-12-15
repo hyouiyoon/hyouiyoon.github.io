@@ -58,7 +58,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Undergraduate Internship</strong>, Computational Materials Modeling & Design Lab.<br>
-    Ewha Womans University, Department of Mechanical and Biomedical Engineering
+    Department of Mechanical and Biomedical Engineering, Ewha Womans University
   </div>
   <div>2024.06 – 2025.02</div>
 </div>
@@ -74,7 +74,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Undergraduate Internship</strong>, BioRobotics Lab.<br>
-    Ewha Womans University, Division of Mechanical and Biomedical Engineering
+    Division of Mechanical and Biomedical Engineering, Ewha Womans University,
   </div>
   <div>2021.12 – 2023.02</div>
 </div>
@@ -82,7 +82,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Administrative Assistant</strong>, Institutional Review Board (IRB)<br>
-    Ewha Womans University, Research Ethics Center
+    Research Ethics Center, Ewha Womans University
   </div>
   <div>2021.08 – 2022.07</div>
 </div>
@@ -144,7 +144,7 @@ Materials Horizons, 2025 (International).
 <!-- Domestic section: add spacing above -->
 <div style="margin-top:14px;"></div>
 
-#### **Oral Presentation - Domestic (Korea)**
+#### **Oral Presentations - Domestic (Korea)**
 <div style="margin-bottom:10px;">
 [DC3] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
