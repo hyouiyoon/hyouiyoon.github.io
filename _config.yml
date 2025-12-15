@@ -2,6 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTNR3VNMB7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DTNR3VNMB7');
+</script>
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hyoui
 # middle_name: R.
