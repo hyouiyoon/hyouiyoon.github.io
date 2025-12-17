@@ -45,7 +45,7 @@ nav_order: 4
   <div>
     <strong>B.S. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
-    <strong>GPA:</strong> 4.08 / 4.5 — <em>Magna Cum Laude</em>
+    <strong>Total GPA:</strong> 4.08 / 4.5 | <strong>Major GPA:</strong> 4.20 / 4.5 — <em>Magna Cum Laude</em>
   </div>
   <div>2020.03 – 2025.02</div>
 </div>
