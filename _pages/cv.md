@@ -97,9 +97,8 @@ nav_order: 4
     <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
     LG Electronics
   </div>
-  <div>2025.12 – 2026.08</div>
+  <div style="white-space:nowrap;">2025.12 – 2026.08</div>
 </div>
-
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div>
