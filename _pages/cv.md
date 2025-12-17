@@ -92,8 +92,8 @@ nav_order: 4
 
 ## **Research Projects**
 
-<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
-  <div>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
+  <div style="padding-right:16px;">
     <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
     LG Electronics
   </div>
@@ -101,7 +101,7 @@ nav_order: 4
 </div>
 
 
-<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div>
     <strong>Development of Robotic Tubes and Wearable Interfaces for Supermicrosurgery</strong><br>
     National Research Foundation of Korea (NRF)
