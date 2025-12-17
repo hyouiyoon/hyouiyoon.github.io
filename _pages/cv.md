@@ -91,15 +91,15 @@ nav_order: 4
 ---
 
 ## **Research Projects**
-<!--
+
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
-    <strong>Development of AI-Based Piping Design Technology with Stress Consideration</strong><br>
+    <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
     LG Electronics
   </div>
-  <div>2025.06 – 2025.12</div>
+  <div>2025.12 – 2026.08</div>
 </div>
--->
+
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
