@@ -77,6 +77,11 @@ ninja.data = [{
           description: "2025.12.10-13KSME, Gangwon-state, Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025/2025_5/";
+            },},{id: "projects-bk21-workshop",
+          title: 'BK21 Workshop',
+          description: "2025.12.22Ewha W. Univ., Seoul, Korea",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025/2025_6/";
             },},{
         id: 'social-email',
         title: 'email',
