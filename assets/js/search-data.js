@@ -94,7 +94,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/hyoui-yoon-윤효의-608939367/", "_blank");
+          window.open("https://www.linkedin.com/in/hyoui-yoon-608939367/", "_blank");
         },
       },{
         id: 'social-scholar',
