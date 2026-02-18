@@ -1,0 +1,31 @@
+<div class="row align-items-center">
+  {% if item.img %}
+    <div class="col-sm-2 d-flex align-items-center">
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+      {% endif %}
+      {% assign img_path = item.img %}
+      {%
+        include figure.liquid
+        loading="eager"
+        path=img_path
+        sizes="200px"
+        class="preview z-depth-1 rounded"
+        alt=item.title
+      %}
+      {% if item.link %}
+        </a>
+      {% endif %}
+    </div>
+  {% endif %}
+  <div class="{% if item.img %}col-sm-10{% else %}col-sm-12{% endif %}">
+    <div class="title">{{ item.title }}</div>
+    <div class="periodical">{{ item.description }}</div>
+    <div class="periodical">{{ item.date | date: "%Y.%m.%d" }}</div>
+    {% if item.link %}
+      <div class="links">
+        <a href="{{ item.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">{{ item.link_text | default: "Link" }}</a>
+      </div>
+    {% endif %}
+  </div>
+</div>
