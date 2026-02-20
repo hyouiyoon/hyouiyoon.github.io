@@ -112,7 +112,7 @@ nav_order: 5
 ---
 
 ## **Publications**
-#### **Journal Acticles**
+#### **Journal Articles**
 
 <div style="margin-bottom:10px;">
 [J2] <strong>Hyoui Yoon</strong>, Hyobi Lee, and Sangryun Lee, 
@@ -199,23 +199,8 @@ COSEIK Academic Symposium, 2025.
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Semester Honors (Dean's List)</strong>, Spring 2024</div>
-  <div>2024.06</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>1st Place</strong>, TELOS Mechanical Engineering 3D Printing Competition, Ewha Womans University</div>
   <div>2023.12</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Semester Honors (Dean's List)</strong>, Fall 2022</div>
-  <div>2022.12</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Semester Honors (Dean's List)</strong>, Spring 2022</div>
-  <div>2022.06</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
@@ -226,16 +211,6 @@ COSEIK Academic Symposium, 2025.
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>3rd Place</strong>, Urban Air Mobility (UAM) Digital Design Competition, Kookmin University</div>
   <div>2021.12</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Semester Honors (Dean's List)</strong>, Fall 2021</div>
-  <div>2021.12</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Semester Honors (Dean's List)</strong>, Spring 2021</div>
-  <div>2021.06</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
