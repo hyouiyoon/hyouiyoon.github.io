@@ -170,11 +170,18 @@ COSEIK Academic Symposium, 2025.
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Teaching Assistant</strong>, Computer-Aided Analysis (Prof. Sangryun Lee)<br>
-    Role: Delivered ANSYS simulation tutorials (static structural analysis, truss/frame modeling, elasticity problems) and supported student troubleshooting.
+    Role: Led ANSYS tutorials on structural analysis and elasticity modeling.
   </div>
   <div style="white-space:nowrap;">Spring 2025</div>
 </div>
 
+<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+  <div>
+    <strong>Teaching Assistant</strong>, Mechanical and Biomedical Engineering Experiment I<br>(Prof. Seokchang Ryu, Prof. Taeyong Lee, Prof. Jungrok Lee, Prof. Wonjae Choi and Prof. Sangryun Lee)<br>
+    Role: Supervised machining laboratory sessions (lathe, milling, drilling, and tapping).
+  </div>
+  <div style="white-space:nowrap;">Spring 2026</div>
+</div>
 
 
 ---
