@@ -1,6 +1,6 @@
 <div class="row align-items-center">
   {% if item.img %}
-    <div class="col col-sm-2 d-flex align-items-center mb-2 mb-sm-0">
+    <div class="col-12 col-sm-2 d-flex align-items-center mb-2 mb-sm-0">
       {% if item.link %}
         <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
       {% endif %}
@@ -9,7 +9,7 @@
         include figure.liquid
         loading="eager"
         path=img_path
-        sizes="200px"
+        sizes="(min-width: 576px) 200px, 95vw"
         class="preview z-depth-1 rounded"
         alt=item.title
       %}
@@ -18,7 +18,7 @@
       {% endif %}
     </div>
   {% endif %}
-  <div class="{% if item.img %}col-sm-10{% else %}col-sm-12{% endif %}">
+  <div class="{% if item.img %}col-12 col-sm-10{% else %}col-sm-12{% endif %}">
     <div class="title">{{ item.title }}</div>
     <div class="periodical">{{ item.description }}</div>
     <div class="periodical">{{ item.date | date: "%Y.%m.%d" }}</div>
