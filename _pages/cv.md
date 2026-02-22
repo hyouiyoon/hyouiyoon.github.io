@@ -116,13 +116,14 @@ nav_order: 5
 
 <div style="margin-bottom:10px;">
 [J2] <strong>Hyoui Yoon</strong>, Hyobi Lee, and Sangryun Lee, 
-"Designing Lightweight Nanolattices: Multiscale Optimization of Geometry and Size Effects", Under review.
+"Designing Lightweight Nanolattices: Multiscale Optimization of Geometry and Size Effects", <em>Thin-Walled Structures</em>, (2026).
+<a href="https://www.sciencedirect.com/science/article/pii/S0263823126002284">https://doi.org/10.1016/j.tws.2026.114704</a>
 </div>
 
 <div style="margin-bottom:10px;">
 [J1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
-<em>Materials Horizons</em>, 2026. 
+<em>Materials Horizons</em>, (2026). 
 <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01846c">https://doi.org/10.1039/D5MH01846C</a>
 </div>
 
