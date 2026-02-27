@@ -153,9 +153,9 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       {% capture entrytype -%}
-        <em>{{ entry.journal }}</em>{% if entry.volume %}, {{ entry.volume }}{% endif %}
-        {% if entry.number %} ({{ entry.number }}){% endif %}
-        {% if entry.pages %}, {{ entry.pages }}{% endif %}
+        <em>{{ entry.journal }}</em>{% if entry.volume %}, {{ entry.volume }}{% endif -%}
+        {%- if entry.number %} ({{ entry.number }}){% endif -%}
+        {%- if entry.pages %}, {{ entry.pages }}{% endif %}
         {%- endcapture %}
 
     {% elsif proceedings contains entry.type %}
@@ -200,7 +200,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">LINK</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
