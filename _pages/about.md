@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://sites.google.com/view/sangryunlab'>Computational Material Modeling & Desing Lab.</a> at <a href='https://www.ewha.ac.kr/ewhaen/index.do'>Ewha Womans University</a>
+subtitle: <a href='https://sites.google.com/view/sangryunlab'>Computational Materials Modeling & Design Lab.</a> at <a href='https://www.ewha.ac.kr/ewhaen/index.do'>Ewha Womans University</a>
 
 
 profile:
