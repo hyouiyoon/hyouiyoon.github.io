@@ -92,6 +92,7 @@ nav_order: 5
 
 ## **Research Projects**
 
+<!--
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div style="padding-right:16px;">
     <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
@@ -99,6 +100,7 @@ nav_order: 5
   </div>
   <div style="white-space:nowrap;">2025.12 – 2026.12</div>
 </div>
+-->
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div>
