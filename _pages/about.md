@@ -36,7 +36,7 @@ Please feel free to contact me anytime!
 
 
 
-**Research interests:** Data-driven design, Design optimization, Multiphysics modeling
+**Research interests:** AI for Engineering Design, Multiphysics & Multiscale Modeling
 
 ---
 
