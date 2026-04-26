@@ -36,7 +36,7 @@ nav_order: 5
     <strong>M.S. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Adviser:</strong> Prof. Sangryun Lee<br>
-    <strong>Thesis Title:</strong> (to be updated)
+    <strong>Thesis Title:</strong> Design optimization of lattice metamaterials for ultrawide low-frequency vibration attenuation
   </div>
   <div>2025.03 – Present</div>
 </div>
@@ -92,7 +92,7 @@ nav_order: 5
 
 ## **Research Projects**
 
-<!--
+
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div style="padding-right:16px;">
     <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
@@ -100,7 +100,7 @@ nav_order: 5
   </div>
   <div style="white-space:nowrap;">2025.12 – 2026.12</div>
 </div>
--->
+
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div>
@@ -148,13 +148,19 @@ Materials Horizons, 2025 (International).
 
 #### **Oral Presentations - Domestic (Korea)**
 <div style="margin-bottom:10px;">
+[DC4] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
+"Data-Driven Shape Optimization of Lattice Structures for Low-Frequency Broadband Bandgaps", 
+COSEIK Academic Symposium, 2026.
+</div>
+
+<div style="margin-bottom:10px;">
 [DC3] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
 80th Anniversary Conference of KSME, 2025.
 </div>
 
 <div style="margin-bottom:10px;">
-[DC2] <strong>Hyoui Yoon</strong>, Wonjae Choi, Chaewon Park, and Sangryun Lee, 
+[DC2] <strong>Hyoui Yoon</strong>, Chaewon Park, Wonjae Choi, and Sangryun Lee, 
 "Data-driven shape optimization of lattice structures for vibration isolation", 
 80th Anniversary Conference of KSME, 2025.
 </div>
@@ -191,6 +197,11 @@ COSEIK Academic Symposium, 2025.
 ## **Honors and Awards**
 
 
+
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+  <div><strong>Outstanding Academic Research Award</strong><br>BK21 4IR-Based Healthcare Professional Training Education Research Group, Ewha Womans University</div>
+  <div>2025.12</div>
+</div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>AI SeoulTech Graduate Scholarship</strong></div>

@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 nav: true
 nav_order: 3
-display_categories: [2025]
+display_categories: [2026, 2025]
 horizontal: false
 ---
 
