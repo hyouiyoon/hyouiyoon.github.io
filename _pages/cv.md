@@ -95,19 +95,18 @@ nav_order: 5
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
   <div style="padding-right:16px;">
+    <strong>(Confidential)</strong><br>
+    LG Electronics
+  </div>
+  <div style="white-space:nowrap;">2026.04 – 2027.04</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
+  <div style="padding-right:16px;">
     <strong>Development of AI/VPD-based drum washing machine transient/normal/spin-drying noise prediction technology</strong><br>
     LG Electronics
   </div>
   <div style="white-space:nowrap;">2025.12 – 2026.12</div>
-</div>
-
-
-<div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
-  <div>
-    <strong>Development of Robotic Tubes and Wearable Interfaces for Supermicrosurgery</strong><br>
-    National Research Foundation of Korea (NRF)
-  </div>
-  <div>2022.09 – 2022.12</div>
 </div>
 
 
@@ -148,6 +147,18 @@ Materials Horizons, 2025 (International).
 
 #### **Oral Presentations - Domestic (Korea)**
 <div style="margin-bottom:10px;">
+[DC6] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
+"Design of Lattice Structures for Low-Frequency Broadband Vibration Attenuation via Bayesian Optimization", 
+Spring Annual Conference of KSNVE, 2026.
+</div>
+
+<div style="margin-bottom:10px;">
+[DC5] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
+"Bayesian Optimization-Based Design of Lattice Structures for Low-Frequency Broadband Bandgaps", 
+Spring Conference of KSME Division of CAE and Applied Mechanics, 2026.
+</div>
+
+<div style="margin-bottom:10px;">
 [DC4] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
 "Data-Driven Shape Optimization of Lattice Structures for Low-Frequency Broadband Bandgaps", 
 COSEIK Academic Symposium, 2026.
@@ -182,6 +193,14 @@ COSEIK Academic Symposium, 2025.
     Role: Supervised machining laboratory sessions (lathe, milling, drilling, and tapping).
   </div>
   <div style="white-space:nowrap;">Spring 2026</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+  <div>
+    <strong>Teaching Assistant</strong>, Introduction to Mechanical and Biomedical Engineering<br>(Prof. Sangryun Lee, Prof. Jieung Baek, Prof. Soonkyum Kim, Prof. Taehoon Shin, Prof. Jungrok Lee, Prof. Seokchang Ryu, Prof. Wonjae Choi and Prof. Taeyong Lee)<br>
+    Role: Supervised student egg drop projects.
+  </div>
+  <div style="white-space:nowrap;">Fall 2026</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
