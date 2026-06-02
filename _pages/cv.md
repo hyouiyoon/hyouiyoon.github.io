@@ -117,14 +117,14 @@ nav_order: 5
 
 <div style="margin-bottom:10px;">
 [J2] <strong>Hyoui Yoon</strong>, Hyobi Lee, and Sangryun Lee*,
-"Designing Lightweight Nanolattices: Multiscale Optimization of Geometry and Size Effects", <em>Thin-Walled Structures</em>, 224, 114704, (2026).
+"Designing Lightweight Nanolattices: Multiscale Optimization of Geometry and Size Effects", <strong><em>Thin-Walled Structures</em></strong>, 224, 114704, (2026).
 <a href="https://www.sciencedirect.com/science/article/pii/S0263823126002284">https://doi.org/10.1016/j.tws.2026.114704</a>
 </div>
 
 <div style="margin-bottom:10px;">
 [J1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
-<em>Materials Horizons</em>, 13, 1952-1965, (2026).
+<strong><em>Materials Horizons</em></strong>, 13, 1952-1965, (2026).
 <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01846c">https://doi.org/10.1039/D5MH01846C</a>
 </div>
 
@@ -200,7 +200,7 @@ COSEIK Academic Symposium, 2025.
     <strong>Teaching Assistant</strong>, Introduction to Mechanical and Biomedical Engineering<br>(Prof. Sangryun Lee, Prof. Jieung Baek, Prof. Soonkyum Kim, Prof. Taehoon Shin, Prof. Jungrok Lee, Prof. Seokchang Ryu, Prof. Wonjae Choi and Prof. Taeyong Lee)<br>
     Role: Supervised student egg drop projects.
   </div>
-  <div style="white-space:nowrap;">Fall 2026</div>
+  <div style="white-space:nowrap;">Spring 2026</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
