@@ -8,6 +8,10 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+strong { font-weight: 600; }
+</style>
+
 <div class="profile-header" style="display:flex; align-items:center; gap: 20px; margin-bottom: 30px;">
   <img src="{{ '/assets/img/profile_pic.jpg' | relative_url }}" 
      alt="profile photo" 
@@ -132,9 +136,9 @@ nav_order: 5
 ##### **Domestic Journal**
 
 <div style="margin-bottom:10px;">
-[DJ1] <strong>Hyoui Yoon</strong>, Jinyi Byun, and Sangryun Lee, 
+[DJ1] <strong>윤효의</strong>, 변진이, 이상륜, 
 "저주파 광대역 밴드갭 구현을 위한 격자 구조의 데이터 기반 형상 최적 설계", 
-<strong><em>Journal of the Computational Structural Engineering Institute of Korea</em></strong>, accepted, (2026).
+<strong><em>Journal of the Computational Structural Engineering Institute of Korea</em></strong>, <em>Accepted</em>, (2026).
 </div>
 
 
@@ -201,7 +205,7 @@ COSEIK Academic Symposium, 2025.
     <strong>Teaching Assistant</strong>, Mechanical and Biomedical Engineering Experiment I<br>(Prof. Seokchang Ryu, Prof. Taeyong Lee, Prof. Jungrok Lee, Prof. Wonjae Choi and Prof. Sangryun Lee)<br>
     Role: Supervised machining laboratory sessions (lathe, milling, drilling, and tapping).
   </div>
-  <div style="white-space:nowrap;">Spring 2026</div>
+  <div style="white-space:nowrap;">Spring 2026<br>Spring 2025</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
