@@ -114,6 +114,7 @@ nav_order: 5
 
 ## **Publications**
 #### **Journal Articles**
+##### **International Journal**
 
 <div style="margin-bottom:10px;">
 [J2] <strong>Hyoui Yoon</strong>, Hyobi Lee, and Sangryun Lee*,
@@ -126,6 +127,14 @@ nav_order: 5
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
 <strong><em>Materials Horizons</em></strong>, 13, 1952-1965, (2026).
 <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01846c">https://doi.org/10.1039/D5MH01846C</a>
+</div>
+
+##### **Domestic Journal**
+
+<div style="margin-bottom:10px;">
+[DJ1] <strong>Hyoui Yoon</strong>, Jinyi Byun, and Sangryun Lee, 
+"저주파 광대역 밴드갭 구현을 위한 격자 구조의 데이터 기반 형상 최적 설계", 
+<strong><em>Journal of the Computational Structural Engineering Institute of Korea</em></strong>, accepted, (2026).
 </div>
 
 
