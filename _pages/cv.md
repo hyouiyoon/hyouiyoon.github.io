@@ -10,6 +10,9 @@ nav_order: 5
 
 <style>
 strong { font-weight: 600; }
+h2 { margin-bottom: 16px; }
+h4 { margin-top: 20px; margin-bottom: 12px; }
+h5 { margin-top: 14px; margin-bottom: 10px; }
 </style>
 
 <div class="profile-header" style="display:flex; align-items:center; gap: 20px; margin-bottom: 30px;">
@@ -78,7 +81,7 @@ strong { font-weight: 600; }
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
     <strong>Undergraduate Internship</strong>, BioRobotics Lab.<br>
-    Division of Mechanical and Biomedical Engineering, Ewha Womans University,
+    Division of Mechanical and Biomedical Engineering, Ewha Womans University
   </div>
   <div>2021.12 – 2023.02</div>
 </div>
@@ -117,7 +120,9 @@ strong { font-weight: 600; }
 ---
 
 ## **Publications**
+
 #### **Journal Articles**
+
 ##### **International Journal**
 
 <div style="margin-bottom:10px;">
@@ -127,7 +132,7 @@ strong { font-weight: 600; }
 </div>
 
 <div style="margin-bottom:10px;">
-[J1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
+[J1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee*, 
 "Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
 <strong><em>Materials Horizons</em></strong>, 13, 1952-1965, (2026).
 <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01846c">https://doi.org/10.1039/D5MH01846C</a>
@@ -146,17 +151,11 @@ strong { font-weight: 600; }
 
 ## **Conference Proceedings**
 
-<!--
-#### **International Conference**
+#### **Oral Presentations - International**
 <div style="margin-bottom:10px;">
-[IC1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
-"Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
-Materials Horizons, 2025 (International).
+[IC1] (Upcoming) <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
+WCCM-ECCOMAS 2026 (Munich, Germany), in session MS344: "Agentic AI and Physics-Informed Machine Learning for Next-Generation Design and Manufacturing", (Jul 23, 17:00-18:30).
 </div>
--->
-
-<!-- Domestic section: add spacing above -->
-<div style="margin-top:14px;"></div>
 
 #### **Oral Presentations - Domestic (Korea)**
 <div style="margin-bottom:10px;">
@@ -231,7 +230,7 @@ COSEIK Academic Symposium, 2025.
 
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Outstanding Academic Research Award</strong><br>BK21 4IR-Based Healthcare Professional Training Education Research Group, Ewha Womans University</div>
+  <div><strong>Outstanding Academic Research Award</strong>, BK21 Research Group, Ewha Womans University</div>
   <div>2025.12</div>
 </div>
 
