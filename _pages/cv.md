@@ -26,7 +26,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
     <p style="margin-top:8px;">
       <a href="mailto:hyouiyoon@ewha.ac.kr"><i class="fa-solid fa-envelope"></i> Email</a> ·
       <a href="https://scholar.google.com/citations?user=sDgcZ8gAAAAJ&hl=ko"><i class="ai ai-google-scholar"></i>Google Scholar</a> ·
-    <a href="https://linkedin.com/in/hyoui-yoon-윤효의-608939367"><i class="fa-brands fa-linkedin"></i> LinkedIn
+    <a href="https://www.linkedin.com/in/hyouiyoon/"><i class="fa-brands fa-linkedin"></i> LinkedIn
   </a>
 </p>
   </div>
