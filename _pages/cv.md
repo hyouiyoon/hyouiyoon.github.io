@@ -235,17 +235,17 @@ COSEIK Academic Symposium, 2025.
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>AI SeoulTech Graduate Scholarship</strong></div>
+  <div><strong>AI SeoulTech Graduate Scholarship</strong>, Seoul Scholarship Foundation</div>
   <div>2025.09 – 2026.02</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Combined Bachelor's–Master's Program Scholarship</strong></div>
+  <div><strong>Combined Bachelor's–Master's Program Scholarship</strong>, Ewha Womans University</div>
   <div>2025.03 – 2026.08</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Intops–Pyongsan Scholarship</strong></div>
+  <div><strong>Intops–Pyongsan Scholarship</strong>, Intops–Pyongsan Scholarship Foundation</div>
   <div>2024.07 – 2024.12</div>
 </div>
 
