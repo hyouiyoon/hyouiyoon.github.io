@@ -21,7 +21,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
      style="width:140px; border-radius:12px;">
   <div>
     <h1 style="margin-bottom:4px;">Hyoui Yoon</h1>
-    <p style="margin:0;">M.S. Student of Computational Materials Modeling & Design (CMMD) Lab.</p>
+    <p style="margin:0;">Ph.D. Student of Computational Materials Modeling & Design (CMMD) Lab.</p>
     <p style="margin:0;">Advisor: Prof. Sangryun Lee</p>
     <p style="margin-top:8px;">
       <a href="mailto:hyouiyoon@ewha.ac.kr"><i class="fa-solid fa-envelope"></i> Email</a> ·
@@ -40,12 +40,21 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
+    <strong>Ph.D. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
+    Department of Mechanical and Biomedical Engineering<br>
+    <strong>Adviser:</strong> Prof. Sangryun Lee
+  </div>
+  <div>2026 – Present</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+  <div>
     <strong>M.S. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Adviser:</strong> Prof. Sangryun Lee<br>
     <strong>Thesis Title:</strong> Design optimization of lattice metamaterials for ultrawide low-frequency vibration attenuation
   </div>
-  <div>2025.03 – Present</div>
+  <div>2025 – 2026</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
@@ -54,7 +63,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Total GPA:</strong> 4.08 / 4.5 | <strong>Major GPA:</strong> 4.20 / 4.5 — <em>Magna Cum Laude</em>
   </div>
-  <div>2020.03 – 2025.02</div>
+  <div>2020 – 2025</div>
 </div>
 
 
