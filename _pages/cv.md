@@ -162,8 +162,9 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 #### **Oral Presentations - International**
 <div style="margin-bottom:10px;">
-[IC1] (Upcoming) <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
-WCCM-ECCOMAS 2026 (Munich, Germany), in session MS344: "Agentic AI and Physics-Informed Machine Learning for Next-Generation Design and Manufacturing", (Jul 23, 17:00-18:30).
+[IC1] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
+"Bayesian Optimization of Lattice-Truss Structures with Ultrawide Phononic Bandgaps",
+17th WCCM, Munich, Germany 2026.
 </div>
 
 #### **Oral Presentations - Domestic (Korea)**
@@ -236,10 +237,22 @@ COSEIK Academic Symposium, 2025.
 
 ## **Honors and Awards**
 
+##### **Graduate**
 
+<!--
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+  <div><strong>Outstanding Thesis Award</strong>, Ewha Womans University</div>
+  <div>2026.08</div>
+</div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Outstanding Academic Research Award</strong>, BK21 Research Group, Ewha Womans University</div>
+  <div><strong>Outstanding Paper Award</strong>, Ewha Womans University</div>
+  <div>2026.08</div>
+</div>
+-->
+
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+  <div><strong>Outstanding Research Award</strong>, BK21 Research Group, Ewha Womans University</div>
   <div>2025.12</div>
 </div>
 
@@ -252,6 +265,8 @@ COSEIK Academic Symposium, 2025.
   <div><strong>Combined Bachelor's–Master's Program Scholarship</strong>, Ewha Womans University</div>
   <div>2025.03 – 2026.08</div>
 </div>
+
+##### **Undergraduate**
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>Intops–Pyongsan Scholarship</strong>, Intops–Pyongsan Scholarship Foundation</div>
