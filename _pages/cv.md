@@ -147,7 +147,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="margin-bottom:10px;">
 [J1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee*, 
-"Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
+"Layered Hybrid Lattice Architectures for Broadband Electromagnetic Absorption and Improved Structural Stiffness", 
 <strong><em>Materials Horizons</em></strong>, 13, 1952-1965, (2026).
 <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01846c">https://doi.org/10.1039/D5MH01846C</a>
 </div>
@@ -163,7 +163,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 ---
 
-## **Conference Proceedings**
+## **Conference Presentations**
 
 #### **Oral Presentations - International**
 <div style="margin-bottom:10px;">
@@ -193,19 +193,19 @@ COSEIK Academic Symposium, 2026.
 
 <div style="margin-bottom:10px;">
 [DC3] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
-"Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
+"Layered Hybrid Lattice Architectures for Broadband Electromagnetic Absorption and Improved Structural Stiffness", 
 80th Anniversary Conference of KSME, 2025.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC2] <strong>Hyoui Yoon</strong>, Chaewon Park, Wonjae Choi, and Sangryun Lee, 
-"Data-driven shape optimization of lattice structures for vibration isolation", 
+"Data-Driven Shape Optimization of Lattice Structures for Vibration Isolation", 
 80th Anniversary Conference of KSME, 2025.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee,
-"Layered hybrid lattice architectures for broadband electromagnetic absorption and improved structural stiffness", 
+"Layered Hybrid Lattice Architectures for Broadband Electromagnetic Absorption and Improved Structural Stiffness", 
 COSEIK Academic Symposium, 2025.
 </div>
 
