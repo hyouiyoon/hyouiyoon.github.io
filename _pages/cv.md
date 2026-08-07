@@ -243,18 +243,21 @@ COSEIK Academic Symposium, 2025.
 ## **Honors and Awards**
 
 ##### **Graduate**
-
 <!--
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+  <div><strong>Outstanding Paper Award</strong>, Ewha Womans University</div>
+  <div>2026.08</div>
+</div>
+-->
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>Outstanding Thesis Award</strong>, Ewha Womans University</div>
   <div>2026.08</div>
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>Outstanding Paper Award</strong>, Ewha Womans University</div>
+  <div><strong>3·1 Scholarship</strong>, The 3·1 Cultural Foundation</div>
   <div>2026.08</div>
 </div>
--->
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>Outstanding Research Award</strong>, BK21 Research Group, Ewha Womans University</div>
