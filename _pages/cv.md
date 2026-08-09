@@ -40,7 +40,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
-    <strong>Ph.D. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
+    <strong>Ph.D., Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Adviser:</strong> Prof. Sangryun Lee
   </div>
@@ -49,7 +49,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
-    <strong>M.S. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
+    <strong>M.S., Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Adviser:</strong> Prof. Sangryun Lee<br>
     <strong>Thesis Title:</strong> Design optimization of lattice metamaterials for ultrawide low-frequency vibration attenuation
@@ -59,7 +59,7 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
-    <strong>B.S. in Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
+    <strong>B.S., Mechanical and Biomedical Engineering</strong> | Ewha Womans University, Seoul, Republic of Korea<br>
     Department of Mechanical and Biomedical Engineering<br>
     <strong>Total GPA:</strong> 4.08 / 4.5 | <strong>Major GPA:</strong> 4.20 / 4.5 — <em>Magna Cum Laude</em>
   </div>
