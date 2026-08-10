@@ -255,7 +255,7 @@ COSEIK Academic Symposium, 2025.
 </div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>3·1 Scholarship</strong>, The 3·1 Cultural Foundation</div>
+  <div><strong>The Samil Scholarship</strong>, The Samil Foundation</div>
   <div>2026.08</div>
 </div>
 
