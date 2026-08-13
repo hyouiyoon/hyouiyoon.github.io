@@ -136,7 +136,8 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 
 <div style="margin-bottom:10px;">
 [J3] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee*,
-"Ultrawide Low-Frequency Vibration Attenuation in Lightweight and Stiff Lattice Metamaterials", <strong><em>Thin-Walled Structures</em></strong>, <em>Accepted</em>, (2026).
+"Ultrawide Low-Frequency Vibration Attenuation in Lightweight and Stiff Lattice Metamaterials", <strong><em>Thin-Walled Structures</em></strong>, 231, 115497, (2026).
+<a href="https://doi.org/10.1016/j.tws.2026.115497">https://doi.org/10.1016/j.tws.2026.115497</a>
 </div>
 
 <div style="margin-bottom:10px;">
