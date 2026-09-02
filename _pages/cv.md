@@ -156,9 +156,10 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 ##### **Domestic Journal**
 
 <div style="margin-bottom:10px;">
-[DJ1] <strong>윤효의</strong>, 변진이, 이상륜, 
+[DJ1] <strong>윤효의</strong>, 변진이, 이상륜*, 
 "저주파 광대역 밴드갭 구현을 위한 격자 구조의 데이터 기반 형상 최적 설계", 
-<strong><em>Journal of the Computational Structural Engineering Institute of Korea</em></strong>, <em>Accepted</em>, (2026).
+<strong><em>Journal of the Computational Structural Engineering Institute of Korea</em></strong>, 39(4), 245-253, (2026).
+<a href="https://doi.org/10.7734/COSEIK.2026.39.4.245">https://doi.org/10.7734/COSEIK.2026.39.4.245</a>
 </div>
 
 
@@ -252,11 +253,6 @@ COSEIK Academic Symposium, 2025.
 -->
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>Outstanding Thesis Award</strong>, Ewha Womans University</div>
-  <div>2026.08</div>
-</div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
-  <div><strong>The Samil Scholarship</strong>, The Samil Foundation</div>
   <div>2026.08</div>
 </div>
 
