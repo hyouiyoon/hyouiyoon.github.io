@@ -26,17 +26,13 @@ latest_posts:
 
 Welcome to my space!
 
-I received my B.S. and M.S. degrees in Mechanical and Biomedical Engineering from Ewha Womans University, Seoul, South Korea, in 2025 and 2026, respectively.
+I am currently a Ph.D. student in the Computational Materials Modeling & Design (CMMD) Lab under the supervision of Prof. Sangryun Lee.
 
-I am currently a Ph.D. student in the Computational Materials Modeling & Design (CMMD) Lab under the supervision of Prof. Sangryun Lee, where I focus on integrating computational mechanics with data-driven methodologies for advanced material and structural design.
-
-My work centers on developing computational methods that bring together physical modeling and data-driven approaches to support more effective material and structural design.
-
-Please feel free to contact me anytime!
-
-
+I received my B.S. and M.S. degrees in Mechanical and Biomedical Engineering from Ewha Womans University in 2025 and 2026, respectively. My research focuses on integrating computational mechanics with data-driven methodologies for advanced material and structural design.
 
 **Research interests:** AI for Engineering Design, Multiphysics & Multiscale Modeling
+
+Please feel free to contact me anytime!
 
 ---
 
