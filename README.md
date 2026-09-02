@@ -2,7 +2,7 @@
 
 Personal academic website of **Hyoui Yoon**.
 
-M.S. student at [Computational Materials Modeling & Design Lab](https://sites.google.com/view/sangryunlab), Ewha Womans University.
+Ph.D. student at [Computational Materials Modeling & Design Lab](https://sites.google.com/view/sangryunlab), Ewha Womans University.
 
 **Research interests:** Data-driven design, Design optimization, Multiphysics modeling
 
