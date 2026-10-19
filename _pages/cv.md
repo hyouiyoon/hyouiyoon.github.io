@@ -114,6 +114,14 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
     <strong>(Confidential)</strong><br>
     LG Electronics
   </div>
+  <div style="white-space:nowrap;">2026.10 – 2027.10</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px;">
+  <div style="padding-right:16px;">
+    <strong>(Confidential)</strong><br>
+    LG Electronics
+  </div>
   <div style="white-space:nowrap;">2026.04 – 2027.04</div>
 </div>
 
@@ -218,6 +226,13 @@ COSEIK Academic Symposium, 2025.
 
 <div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
   <div>
+    <strong>Teaching Assistant</strong>, Structural Analysis and Design (Prof. Sangryun Lee)
+  </div>
+  <div style="white-space:nowrap;">Fall 2026</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+  <div>
     <strong>Teaching Assistant</strong>, Mechanical and Biomedical Engineering Experiment I<br>(Prof. Seokchang Ryu, Prof. Taeyong Lee, Prof. Jungrok Lee, Prof. Wonjae Choi and Prof. Sangryun Lee)<br>
     Role: Supervised machining laboratory sessions (lathe, milling, drilling, and tapping).
   </div>
@@ -236,6 +251,13 @@ COSEIK Academic Symposium, 2025.
   <div>
     <strong>Teaching Assistant</strong>, Computer-Aided Analysis (Prof. Sangryun Lee)<br>
     Role: Led ANSYS tutorials on structural analysis and elasticity modeling.
+  </div>
+  <div style="white-space:nowrap;">Spring 2025</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; width:100%; margin-bottom:10px;">
+  <div>
+    <strong>Teaching Assistant</strong>, Solid Mechanics (Prof. Sangryun Lee)
   </div>
   <div style="white-space:nowrap;">Spring 2025</div>
 </div>
