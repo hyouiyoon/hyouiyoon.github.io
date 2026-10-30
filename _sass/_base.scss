@@ -1501,3 +1501,9 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+// Journal metrics (IF, JCR) next to each publication
+.journal-metrics {
+  color: var(--global-text-color-light);
+  opacity: 0.7;
+}
