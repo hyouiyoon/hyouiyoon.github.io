@@ -1,0 +1,12 @@
+# Journal metrics shown next to each publication (key: journal name exactly as in papers.bib).
+# Update once a year when the new JCR is released. Leave a field blank to hide it.
+#   if:  impact factor (e.g. 6.6)
+#   jcr: JCR ranking text (e.g. Top 5.2% in Engineering, Civil)
+
+Thin-Walled Structures:
+  if: 8.3
+  jcr: Top 3.5% in Engineering, Mechanical
+
+Materials Horizons:
+  if: 11.4
+  jcr: Top 11% in Chemistry, Multidisciplinary

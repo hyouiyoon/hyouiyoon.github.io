@@ -185,8 +185,10 @@
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype | strip }}{% if entryyear != "" %}{% if entrytype_text != "" %}, {% endif %}({{ entrymonth | strip }}{{ entryyear | strip }}){% endif %}{% if entry.note %}, {{ entry.note | strip }}{% endif %}{% endcapture %}
+    {% assign metrics = site.data.journal_metrics[entry.journal] %}
+    {% capture metrics_text %}{% if metrics.if %}IF: {{ metrics.if }}{% endif %}{% if metrics.if and metrics.jcr %}, {% endif %}{% if metrics.jcr %}{{ metrics.jcr }}{% endif %}{% endcapture %}
     <div class="periodical">
-      {{ periodical | strip }}
+      {{ periodical | strip }}{% if metrics_text != "" %} <span class="journal-metrics">({{ metrics_text }})</span>{% endif %}
     </div>
 
     <!-- Links/Buttons -->
