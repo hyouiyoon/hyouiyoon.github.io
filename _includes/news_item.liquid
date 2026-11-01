@@ -1,8 +1,9 @@
+{% assign main_link = item.link | default: item.links.first.url %}
 <div class="row align-items-center">
   {% if item.img %}
     <div class="col-12 col-sm-2 d-flex align-items-center mb-2 mb-sm-0">
-      {% if item.link %}
-        <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
+      {% if main_link %}
+        <a href="{{ main_link }}" target="_blank" rel="noopener noreferrer">
       {% endif %}
       {% assign img_path = item.img %}
       {%
@@ -13,7 +14,7 @@
         class="preview z-depth-1 rounded"
         alt=item.title
       %}
-      {% if item.link %}
+      {% if main_link %}
         </a>
       {% endif %}
     </div>
@@ -22,9 +23,14 @@
     <div class="title">{{ item.title }}</div>
     <div class="periodical">{{ item.description }}</div>
     <div class="periodical">{{ item.date | date: "%Y.%m.%d" }}</div>
-    {% if item.link %}
+    {% if item.link or item.links %}
       <div class="links">
-        <a href="{{ item.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">{{ item.link_text | default: "Link" }}</a>
+        {% if item.link %}
+          <a href="{{ item.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">{{ item.link_text | default: "Link" }}</a>
+        {% endif %}
+        {% for l in item.links %}
+          <a href="{{ l.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">{{ l.text | default: "Link" }}</a>
+        {% endfor %}
       </div>
     {% endif %}
   </div>
