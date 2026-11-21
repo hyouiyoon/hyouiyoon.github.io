@@ -179,44 +179,56 @@ h5 { margin-top: 14px; margin-bottom: 10px; }
 <div style="margin-bottom:10px;">
 [IC1] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
 "Bayesian Optimization of Lattice-Truss Structures with Ultrawide Phononic Bandgaps",
-17th WCCM, Munich, Germany 2026.
+2026 World Congress in Computational Mechanics (17th WCCM), Munich, Germany.
 </div>
 
 #### **Oral Presentations - Domestic (Korea)**
 <div style="margin-bottom:10px;">
+[DC8] <strong>Hyoui Yoon</strong> and Sangryun Lee, 
+"Development of a Structural Analysis Surrogate Model Using CAD Boundary Representations", 
+2026 Academic Symposium of the Computational Structural Engineering Institute of Korea.
+</div>
+
+<div style="margin-bottom:10px;">
+[DC7] <strong>Hyoui Yoon</strong> and Sangryun Lee, 
+"CAD-Based Structural Property Prediction Using Graph Neural Networks", 
+2026 KSME Annual Meeting.
+</div>
+
+<div style="margin-bottom:10px;">
 [DC6] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
 "Design of Lattice Structures for Low-Frequency Broadband Vibration Attenuation via Bayesian Optimization", 
-Spring Annual Conference of KSNVE, 2026.
+2026 Spring Annual Conference of KSNVE.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC5] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
 "Bayesian Optimization-Based Design of Lattice Structures for Low-Frequency Broadband Bandgaps", 
-Spring Conference of KSME Division of CAE and Applied Mechanics, 2026.
+2026 Spring Conference of KSME Division of CAE and Applied Mechanics.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC4] <strong>Hyoui Yoon</strong>, Chaewon Park, Taegun Lee, Wonjae Choi, and Sangryun Lee, 
 "Data-Driven Shape Optimization of Lattice Structures for Low-Frequency Broadband Bandgaps", 
-COSEIK Academic Symposium, 2026.
+2026 Annual Conference of the Computational Structural Engineering Institute of Korea.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC3] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee, 
 "Layered Hybrid Lattice Architectures for Broadband Electromagnetic Absorption and Improved Structural Stiffness", 
-80th Anniversary Conference of KSME, 2025.
+2025 KSME 80th Anniversary Conference.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC2] <strong>Hyoui Yoon</strong>, Chaewon Park, Wonjae Choi, and Sangryun Lee, 
 "Data-Driven Shape Optimization of Lattice Structures for Vibration Isolation", 
-80th Anniversary Conference of KSME, 2025.
+2025 KSME 80th Anniversary Conference.
 </div>
 
 <div style="margin-bottom:10px;">
 [DC1] <strong>Hyoui Yoon</strong>, Dahyun Daniel Lim, Grace X. Gu, and Sangryun Lee,
 "Layered Hybrid Lattice Architectures for Broadband Electromagnetic Absorption and Improved Structural Stiffness", 
-COSEIK Academic Symposium, 2025.
+2025 Academic Symposium of the Computational Structural Engineering Institute of Korea.
 </div>
 
 
@@ -273,6 +285,11 @@ COSEIK Academic Symposium, 2025.
   <div>2026.08</div>
 </div>
 -->
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+  <div><strong>Excellent Presentation Award</strong>, Computational Structural Engineering Institute of Korea</div>
+  <div>2026.11</div>
+</div>
+
 <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
   <div><strong>Outstanding Thesis Award</strong>, Ewha Womans University</div>
   <div>2026.08</div>
